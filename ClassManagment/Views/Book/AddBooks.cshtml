@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewBag.Title = "AddBooks";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Classroom Managment</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="navbar navbar-default navbar-fixed-top" data-spy="affix">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" data-offset-top="400">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                </div>
+
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li>@Html.ActionLink("Books", "ShowBooks", "Book")</li>
+                    </ul>
+                    <ul class="nav navbar-right navbar-nav">
+                        <li>@Html.ActionLink("LogOut", "Index", "Main")</li>
+                    </ul>
+                </div>
+            </div>
+        </div><!-- /.navbar -->
+    </nav>
+    <div>
+        <img src="https://3ek5k1tux0822q3g83e30fye-wpengine.netdna-ssl.com/wp-content/themes/eduma/images/bg-page.jpg" class="img-responsive" alt="class" />
+    </div>
+
+    <div class="container body-content">
+
+        <div class="form-horizontal">
+            <h4>Add Books</h4>
+            <div class="form-group">
+                <label class="control-label col-md-2">Book Name</label>
+                <div class="col-md-10">
+                    <input type="text" id="username" name="username" placeholder="" class="form-control">
+                </div>
+                <label class="control-label col-md-2">Author Name</label>
+                <div class="col-md-10">
+                    <input type="text" id="username" name="username" placeholder="" class="form-control">
+                </div>
+                 
+            </div>
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+                </div>
+                <div class="custom-file">
+                    <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+                    <label class="custom-file-label" for="inputGroupFile01"></label>
+                </div>
+            </div>
+            <div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+
+
+
+
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
+
+

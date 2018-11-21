@@ -1,0 +1,92 @@
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ApplicationInsights.config
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\csc.exe
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\vbc.exe
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\VBCSCompiler.exe
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.dll.config
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.pdb
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Web.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.ApplicationInsights.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Helpers.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Mvc.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Razor.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Deployment.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Razor.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Web.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.ApplicationInsights.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Razor.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Deployment.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Razor.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Helpers.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Mvc.xml
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.csprojResolveAssemblyReference.cache
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.dll
+C:\Users\shoaib khan\Desktop\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.pdb
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ApplicationInsights.config
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\csc.exe
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\System.Collections.Immutable.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\System.Reflection.Metadata.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\vbc.exe
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\VBCSCompiler.exe
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\roslyn\VBCSCompiler.exe.config
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.dll.config
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\ClassManagment.pdb
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Agent.Intercept.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.DependencyCollector.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Web.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.WindowsServer.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.ApplicationInsights.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.Web.Infrastructure.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Helpers.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Mvc.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Razor.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Deployment.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Razor.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.DependencyCollector.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.Web.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.AI.WindowsServer.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.ApplicationInsights.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Razor.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Deployment.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Webpages.Razor.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Helpers.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\bin\System.Web.Mvc.xml
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.csprojResolveAssemblyReference.cache
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.dll
+G:\CMS\Class-Management-System\ClassManagment\ClassManagment\obj\Debug\ClassManagment.pdb
